@@ -1,7 +1,7 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
 setup(
-    name='InterCal',
+    name='intercal',
     version='0.1.0',
     author='Dr S. M. Emsley (ARGANS)',
     author_email='semsley@argans.co.uk',
